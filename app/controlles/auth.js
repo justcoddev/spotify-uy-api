@@ -11,7 +11,7 @@ const loginCtrl = async(req, res) => {
             name: 'Demo',
             email: 'test@test.com',
             password: '12345678',
-            avatar: 'https://i.imgur.com/0mZ4PUR.png'
+            avatar: 'https://imgur.com/WXbyYij.png'
         }
 
         const { email, password } = req.body
